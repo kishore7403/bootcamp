@@ -1,7 +1,3 @@
 this is line 1
-<<<<<<< HEAD
-this is line 2 suhail's code
-=======
-this is line 2.1 kishore code
->>>>>>> kishore
+this is line 2.1 suhail code
 this is line 3
