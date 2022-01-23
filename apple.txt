@@ -1,3 +1,8 @@
 this is line 1
+<<<<<<< HEAD
 this is line 2 suhail code
 this is line 3 suhail code
+=======
+this is line 2.1 kishore code
+this is line 3.1 kishore code
+>>>>>>> kishore
